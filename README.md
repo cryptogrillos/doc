@@ -17,6 +17,7 @@ Daniel, Maite Tirso
 
 ### Repositorios:
 gpuminer: [link to gpu miner repo](https://github.com/cryptogrillos/gpuminer)
+
 cpuminer: [link to cpu miner repo](https://github.com/cryptogrillos/cpuminer)
 
 
